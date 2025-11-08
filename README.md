@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-theophilo-a8449239/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ziggoto)
+[![Website](https://img.shields.io/badge/-Website-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://fabiotheophilo.com)
 
 </div>
 
@@ -76,6 +77,8 @@ Universidade de Fortaleza (UNIFOR) | 2012 - 2018
 ### Let's Connect
 
 Feel free to reach out for collaborations, technical discussions, or opportunities.
+
+Try out the interactive terminal on my website at [fabiotheophilo.com](https://fabiotheophilo.com) - ask me anything!
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-theophilo-a8449239/)
 
