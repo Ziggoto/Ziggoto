@@ -51,6 +51,8 @@ Senior Software Engineer with over 10 years of experience in full-stack developm
   <img src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
 </p>
 
 ---
