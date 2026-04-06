@@ -30,7 +30,6 @@ Senior Software Engineer with over 10 years of experience in full-stack developm
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
 </p>
@@ -54,6 +53,15 @@ Senior Software Engineer with over 10 years of experience in full-stack developm
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
 </p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [fabiotheophilo.com](https://fabiotheophilo.com) | Personal website with AI-powered interactive terminal | Astro · Supabase · LangChain |
+| [cinedublin.ie](https://cinedublin.ie) | Cinema listing aggregator for Dublin | Astro · Prisma · PostgreSQL |
 
 ---
 
