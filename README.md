@@ -30,6 +30,16 @@ Senior Software Engineer with over 10 years of experience in full-stack developm
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+</p>
+
+**Databases & ORM**
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 </p>
 
 **Tools & Technologies**
@@ -37,7 +47,10 @@ Senior Software Engineer with over 10 years of experience in full-stack developm
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
 </p>
 
 ---
